@@ -3,10 +3,9 @@
 Projekt zespołowy z przedmiotu **Zaawansowane metody uczenia maszynowego** poświęcony algorytmom uczenia ze wzmocnieniem.
 
 ## 👥 Zespół
-
-- [@anowak](https://github.com/anowak)
 - [@FranciszekFilipek](https://github.com/FranciszekFilipek)
-- [@antek]()
+- [@antek]() ??? trzeba dodac
+- [@shaukunoua](https://github.com/shaukunoua)
 - [@Helena26-ai](https://github.com/Helena26-ai)
 - 
 ## 🗂 Struktura projektu
