@@ -16,7 +16,7 @@ Projekt zespołowy z przedmiotu **Zaawansowane metody uczenia maszynowego** poś
     - `notebooks/` – notatniki Jupyter dokumentujące implementację i testy agentów
     - `training_log/` – logi
     - `results/` – wyniki eksperymentów: animacje i wykresy
-- `gifs/` – folder zawierający animacje działania agentów.
+- `movies/` – folder zawierający animacje działania agentów.
 - `README.md` – dokumentacja projektu
 
 ## 🧪 Środowiska i agenci
@@ -29,4 +29,4 @@ TRZEBA DOROBIC TE TABELĘ
 
 ## 📊 Wizualizacje
 
-Animacje działania agentów znajdują się w folderze`gifs/`.
+Animacje działania agentów znajdują się w folderze`movies/`.
