@@ -7,7 +7,7 @@ Projekt zespołowy z przedmiotu **Zaawansowane metody uczenia maszynowego** poś
 - [@antek]() ??? trzeba dodac
 - [@shaukunoua](https://github.com/shaukunoua)
 - [@Helena26-ai](https://github.com/Helena26-ai)
-- 
+  
 ## 🗂 Struktura projektu
 
 - `games/` – główny folder z eksperymentami, zawiera podfoldery dla każdego środowiska:
